@@ -10,7 +10,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprajna)](https://github.com/Suprajna/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
