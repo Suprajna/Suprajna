@@ -23,8 +23,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suprajna)](https://git.io/streak-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprajna&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprajna)](https://github.com/Suprajna/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Suprajna&theme=radical&no-frame=false&no-bg=true&margin-w=4)
