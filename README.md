@@ -10,7 +10,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprajna&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
