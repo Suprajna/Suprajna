@@ -10,7 +10,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprajna&theme=tokyonight)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +23,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suprajna)](https://git.io/streak-stats)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprajna&theme=tokyonight)
 
 
 ## 🏆 GitHub Trophies
