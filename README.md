@@ -6,3 +6,5 @@
 - 📫 How to reach me: suprajnaks@gmail.com
 
 [![Suprajna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suprajna&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprajna)](https://github.com/Suprajna/github-readme-stats)
