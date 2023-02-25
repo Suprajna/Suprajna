@@ -19,4 +19,4 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Suprajna&repo=github-readme-stats)](https://github.com/Suprajna/github-readme-stats)
