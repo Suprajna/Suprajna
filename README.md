@@ -5,4 +5,4 @@
 - 💬 Ask me about React, JavaScript,HTML,CSS,Data Structure and Algorithms
 - 📫 How to reach me: suprajnaks@gmail.com
 
-[Suprajna's GitHub stats] (https://github-readme-stats.vercel.app/api?username=Suprajna&show_icons=true&theme=transparent)
+[![Suprajna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suprajna)](https://github.com/Suprajna/github-readme-stats)
