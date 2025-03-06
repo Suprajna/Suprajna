@@ -1,9 +1,9 @@
 ### Hi, I am Suprajna 👋
 
-🔹 Passionate about building secure and scalable web applications
-🔹 Skilled in .NET, full-stack development, and secure coding practices
-🔹 Always eager to learn, collaborate, and contribute to exciting projects
-📫 How to reach me: suprajnaks@gmail.com
+🔹 Passionate about building secure and scalable web applications.
+🔹 Skilled in .NET, full-stack development, and secure coding practices.
+🔹 Always eager to learn, collaborate, and contribute to exciting projects.
+📫 How to reach me: suprajnaks@gmail.com.
 
 
 
