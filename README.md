@@ -1,10 +1,9 @@
 ### Hi, I am Suprajna 👋
 
-
-- 🔭 I’m currently working on Frontend and Backend
-- 🌱 I’m currently learning MERN Stack
-- 💬 Ask me about React, JavaScript,HTML,CSS,Data Structure and Algorithms
-- 📫 How to reach me: suprajnaks@gmail.com
+🔹 Passionate about building secure and scalable web applications
+🔹 Skilled in .NET, full-stack development, and secure coding practices
+🔹 Always eager to learn, collaborate, and contribute to exciting projects
+📫 How to reach me: suprajnaks@gmail.com
 
 
 
